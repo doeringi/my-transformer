@@ -1,2 +1,2 @@
 # My Transformer
-An approach to re-create and understand the transformer architecture currently powering state-of-the-art Large-Language-Models (LLM).
+An approach to re-create and understand the transformer architecture currently powering state-of-the-art Large-Language-Models (LLM). This is basically me watching and following along a [great YouTube video](https://www.youtube.com/watch?v=rPFkX5fJdRY&t=45s) made by Ajay and reading the corresponding papers, jotting down extra notes or something that I want to have to look up again in the future. 
