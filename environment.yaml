@@ -1,0 +1,8 @@
+name: my-transformer
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - pytorch
